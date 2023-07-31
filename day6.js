@@ -14,3 +14,4 @@ var isPalindrome = function (s) {
 };
 
 // Concept of ASCII to filter out non alpha-numeric char
+// Regex alternative to rule out remaining and comparing
